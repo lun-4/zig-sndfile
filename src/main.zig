@@ -4,3 +4,4 @@ pub const SoundFile = sndfile.SoundFile;
 pub const Mode = sndfile.Mode;
 pub const Format = sndfile.Format;
 pub const Endian = sndfile.Endian;
+pub const c = sndfile.c;
